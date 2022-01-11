@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lentqq
-- 👀 I’m interested in programming and Cloud technologies.
-- 🌱 I’m currently learning JavaScript, NodeJS, AWS.
-- 💞️ I’m looking to collaborate on anyone who can help me to develop my skills, like  a Full-stack developer.
+- 👀 I’m interested in __programming__ and __Cloud technologies__.
+- 🌱 I’m currently learning __JavaScript, NodeJS, AWS__.
+- 💞️ I’m looking to collaborate on anyone who can help me to develop my skills, like  a __Full-stack developer__.
 - 📫 How to reach me: lentqq@gmail.com and [LinkedIn](https://www.linkedin.com/feed/).
 
 <!---
