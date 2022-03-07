@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lentqq
+- 👋 Hi, I’m @Nikolay Kolev
 - 👀 I’m interested in __programming__ and __Cloud technologies__.
 - 🌱 I’m currently learning __JavaScript, NodeJS, AWS__.
 - 💞️ I’m looking to collaborate on anyone who can help me to develop my skills, like  a __Full-stack developer__.
